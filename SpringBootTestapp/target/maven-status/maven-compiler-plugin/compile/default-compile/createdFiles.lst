@@ -1,0 +1,11 @@
+org\healthcare\model\HospitalVO.class
+org\healthcare\example\entity\Hospital.class
+org\healthcare\example\repository\ExaminationRepository.class
+org\healthcare\example\HCApp.class
+org\healthcare\example\repository\HospitalRepository.class
+org\healthcare\model\PatientVO.class
+org\healthcare\example\controller\HospController.class
+org\healthcare\example\repository\PatientRepository.class
+org\healthcare\example\entity\Patient.class
+org\healthcare\example\entity\Examination.class
+org\healthcare\model\ExaminationVO.class
